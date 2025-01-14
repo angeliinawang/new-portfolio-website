@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        'gradient-text': 'linear-gradient(to right, #25564D, #93D7CA)'
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
