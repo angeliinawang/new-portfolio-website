@@ -92,7 +92,7 @@ const AllProjectsSection = () => {
                 <h1 className="text-[15px]">ReactJS | Next.js | TypeScript | Figma</h1>
                 <h1 className={lato.className + " text-[#93D7CA] max-w-[580px] mt-5"}>
                 My personal portfolio website that you are seeing right now! This Next.js web application showcases my
-                plethora of web development projects, graphic design, and other things I love!
+                plethora of web development projects and fun facts about me!
                 </h1>
             </div>
         </div>
