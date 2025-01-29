@@ -10,7 +10,7 @@ const ProjectsSection = () => {
             <h1 className="text-[32px] text-center mt-40 mb-[60px] text-[#93D7CA] font-bold">Projects</h1>
         </div>
         <div className="justify-center">
-            <div className="flex justify-center hover:bg-[#1E302C] duration-500 p-10">
+            <a href="https://github.com/ctc-uci/Center-Stage"><div className="flex justify-center hover:bg-[#1E302C] duration-500 p-10">
                 <Image
                     src="/images/center-stage.png"
                     alt="cs-logo"
@@ -26,8 +26,8 @@ const ProjectsSection = () => {
                         studio bookings, and performance scheduling for Center Stage Dance Studio.
                         </h1>
                     </div>
-            </div>
-            <div className="flex justify-center hover:bg-[#1E302C] duration-500 p-10">
+            </div></a>
+            <a href="https://github.com/angeliinawang/expense-summary"><div className="flex justify-center hover:bg-[#1E302C] duration-500 p-10">
                 <Image
                     src="/images/expense-summary.png"
                     alt="cs-logo"
@@ -43,8 +43,8 @@ const ProjectsSection = () => {
                         organizes expenses by date, and allows secure sign-in to track financial records seamlessly.
                         </h1>
                     </div>
-            </div>
-            <div className="flex justify-center hover:bg-[#1E302C] duration-500 p-10">
+            </div></a>
+            <a href="https://github.com/angeliinawang/goal-for-gold"><div className="flex justify-center hover:bg-[#1E302C] duration-500 p-10">
                 <Image
                     src="/images/goalforgold.png"
                     alt="cs-logo"
@@ -60,7 +60,7 @@ const ProjectsSection = () => {
                         achieve their fitness goals—track pirouettes, flexibility levels, and more with a dynamic goal tracker and calendar for setting deadlines.
                         </h1>
                     </div>
-            </div>
+            </div></a>
         </div>
         <div className="mt-10 flex justify-center underline font-bold hover:text-[#93D7CA] duration-500">
             <Link href={"/projects"}>See all projects</Link>

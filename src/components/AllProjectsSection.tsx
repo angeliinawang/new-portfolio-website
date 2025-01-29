@@ -7,7 +7,7 @@ const AllProjectsSection = () => {
     <section>
         <h1 className="text-[35px] text-center font-bold text-[#93D7CA]">Projects</h1>
         <div className="flex justify-center items-center space-x-6">
-            <a href="https://ctc-uci.com/projects">
+            <a href="https://github.com/ctc-uci/Center-Stage">
             <RadialCircle color="#6231D8" imageSrc="/images/center-stage.png" imageAlt="cs-logo"/></a>
             <div className="items-center">
                 <h1 className="bg-gradient-purple bg-clip-text text-transparent text-[20px] font-bold italic">Commit The Change @ UCI</h1>
