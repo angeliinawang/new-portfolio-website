@@ -1,5 +1,4 @@
 import React from 'react';
-import Image from 'next/image';
 import RadialCircle from './RadialCircle';
 import { lato } from '@/styles/fonts';
 
