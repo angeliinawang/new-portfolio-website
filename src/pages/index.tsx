@@ -34,7 +34,7 @@ export default function Home() {
               height={400}
               className="absolute left-0 rotate-180 -ml-[50px] -mt-[100px]"/>
           </div>
-          <DesignsSection />
+          {/* <DesignsSection /> */}
           <div className="relative">
             <Image
               src="/images/branch4.png"
