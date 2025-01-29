@@ -3,7 +3,7 @@ import NavbarSection from "@/components/NavbarSection";
 import HeroSection from "@/components/HeroSection";
 import HomeIntroSection from "@/components/HomeIntroSection";
 import ProjectsSection from "@/components/ProjectsSection";
-import DesignsSection from "@/components/DesignsSection";
+// import DesignsSection from "@/components/DesignsSection";
 import { Lato } from 'next/font/google';
 import FooterSection from "@/components/FooterSection";
 
