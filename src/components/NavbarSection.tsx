@@ -17,7 +17,7 @@ const NavbarSection = () => {
             <div className="menu hidden md:block md:w-auto" id="navbar">
                 <ul className="flex space-x-20">
                     <li>
-                        <Link href={"#projects"} className="block text-[#93D7CA] md-p-0 font-bold
+                        <Link href={"/projects"} className="block text-[#93D7CA] md-p-0 font-bold
                         sm:text-lg hover:text-white hover:duration-700">projects</Link>
                     </li>
                     <li>

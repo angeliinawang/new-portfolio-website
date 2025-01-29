@@ -9,7 +9,7 @@ const AboutIntroSection = () => {
             <div className="flex items-center justify-center">
                 <div className="max-w-[380px]">
                 <div className={averiaSerifLibre.className}>
-                  <h1 className="bg-gradient-text bg-clip-text text-transparent text-[50px] max-w-xl font-bold italic">Angelina Wang</h1>
+                  <h1 className="bg-gradient-text bg-clip-text text-transparent text-[45px] max-w-xl font-bold italic">Angelina Wang</h1>
                   <h1 className="mb-10 italic text-[#93D7CA]">Computer Science @ UCI, Minor in Informatics</h1>
                 </div>
                 <h1 className="mb-4">I’m currently a second-year student at UC Irvine.</h1>

@@ -1,5 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
+import { averiaSerifLibre } from '@/styles/fonts';
 
 const HomeIntroSection = () => {
   return (
@@ -16,7 +17,7 @@ const HomeIntroSection = () => {
             </div>
             <div className="flex-1">
                 <p className="text-[#F6FFF4] text-[20px] max-w-xl">
-                Hi! I’m Angelina.
+                Hi! I’m <span className={`${averiaSerifLibre.className} text-[25px] font-bold bg-gradient-text bg-clip-text text-transparent`}>Angelina</span>.
                 <span className="block my-4"></span>
                 I’m a software engineer and web designer.
                 <span className="block my-4"></span>

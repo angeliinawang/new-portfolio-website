@@ -1,11 +1,14 @@
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import { averiaSerifLibre } from '../styles/fonts';
 
 const ProjectsSection = () => {
   return (
     <section>
-        <h1 className="text-[32px] text-center mt-40 mb-[60px] text-[#93D7CA] font-bold">Projects</h1>
+        <div className={averiaSerifLibre.className}>
+            <h1 className="text-[32px] text-center mt-40 mb-[60px] text-[#93D7CA] font-bold">Projects</h1>
+        </div>
         <div className="justify-center">
             <div className="flex justify-center hover:bg-[#1E302C] duration-500 p-10">
                 <Image
