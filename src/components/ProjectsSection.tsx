@@ -36,10 +36,10 @@ const ProjectsSection = () => {
                     sizes="30vw"
                     className="w-[120px] h-[120px] object-cover rounded hover:rounded-xl duration-500"/>
                     <div>
-                        <h1 className="ml-8 text-[17px] font-bold">Business Expense Summarizer</h1>
+                        <h1 className="ml-8 text-[17px] font-bold">Budget Buddy</h1>
                         <h1 className="ml-8 text-[17px] italic">ReactJS, Firebase, TailwindCSS</h1>
                         <h1 className="ml-8 text-[17px] text-[#93D7CA] max-w-[800px]">
-                        A web app that helps businesses manage expenses with a customizable summarizer,
+                        A web app that helps college students who own businesses to manage expenses with a customizable summarizer,
                         organizes expenses by date, and allows secure sign-in to track financial records seamlessly.
                         </h1>
                     </div>

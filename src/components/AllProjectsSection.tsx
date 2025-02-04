@@ -24,10 +24,10 @@ const AllProjectsSection = () => {
                 <RadialCircle color="#3F6CF1" imageSrc="/images/expenses.jpg" imageAlt="cs-logo"/></a>
             <div className="items-center">
                 <h1 className="bg-gradient-dark-blue bg-clip-text text-transparent text-[20px] font-bold italic">Personal Projects</h1>
-                <h1 className="text-[30px] font-bold italic">Business Expense Summarizer</h1>
+                <h1 className="text-[30px] font-bold italic">Budget Buddy</h1>
                 <h1 className="text-[15px]">ReactJS | TypeScript | Firebase | ShadCN | Tailwind CSS</h1>
                 <h1 className={lato.className + " text-[#93D7CA] max-w-[580px] mt-5"}>
-                A web application that allows businesses to make and organize expense summaries based on
+                A web application that allows college students who own businesses to make and organize expense summaries based on
                 specific time periods that align with their business needs.
                 </h1>
             </div>
