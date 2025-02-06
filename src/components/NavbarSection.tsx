@@ -25,7 +25,7 @@ const NavbarSection = () => {
                         sm:text-lg hover:text-white hover:duration-700">about</Link>
                     </li>
                     <li>
-                        <Link href={"https://drive.google.com/file/d/1PW_d4Nj6TUXd_rSTDEe5u6cFScB4V7lL/view?usp=sharing"} className="block text-[#93D7CA] md-p-0 font-bold
+                        <Link href={"https://drive.google.com/file/d/1KlVroPvhcsocp9MWOyssTjNHRFl3Iw_u/view?usp=sharing"} className="block text-[#93D7CA] md-p-0 font-bold
                         sm:text-lg hover:text-white hover:duration-700">resume</Link>
                     </li>
                     <li>
